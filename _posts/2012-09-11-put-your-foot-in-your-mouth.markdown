@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Put your Foot in Your Mouth'
+title: Put your Foot in Your Mouth
 layout: post
 ---
 To my readers,
@@ -16,3 +16,5 @@ Origin of the Cliche: United States
 Cliche meaning: To say something that is better eft unsaid or will embarrass you. 
 Photo Taken at: Fort Worth zoo
 Subject: Lemur
+
+![photo](http://res.cloudinary.com/dijs-design/image/upload/v1449353400/FootMouth_kn0pxo.jpg)
